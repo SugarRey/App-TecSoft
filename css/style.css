@@ -4388,7 +4388,6 @@ span.badge-1 {
 	}
 	.prod-items .sectgl-item .prod-i-img {
 		height: 271px;
-		padding: 30px;
 	}
 	.prod-items .prod-i .prod-i-bot {
 		padding: 20px 30px 8px;
@@ -4414,7 +4413,6 @@ span.badge-1 {
 	}
 	.prod-items .sectgl-item .prod-i-img {
 		height: 309px;
-		padding: 40px;
 	}
 	.prod-items .prod-i .prod-i-bot {
 		padding: 35px 40px 18px;
@@ -4430,7 +4428,6 @@ span.badge-1 {
 	}
 	.prod-items .sectgl-item .prod-i-img {
 		height: 271px;
-		padding: 30px
 	}
 	.prod-items .prod-i .prod-i-bot {
 		padding: 20px 30px 8px;
@@ -4453,7 +4450,7 @@ span.badge-1 {
 	}
 	.prod-items .sectgl-item .prod-i-img {
 		height: auto !important;
-		padding: 40px;
+		
 	}
 	.prod-items .prod-i .prod-i-bot {
 		padding: 35px 40px 18px;
